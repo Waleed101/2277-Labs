@@ -1,0 +1,139 @@
+$comment
+	File created using the following command:
+		vcd file SOP.msim.vcd -direction
+$end
+$date
+	Thu Oct 22 11:42:13 2020
+$end
+$version
+	ModelSim Version 2020.1
+$end
+$timescale
+	1ps
+$end
+
+$scope module SOP_vlg_vec_tst $end
+$var reg 1 ! a $end
+$var reg 1 " b $end
+$var reg 1 # c $end
+$var reg 1 $ d $end
+$var wire 1 % out $end
+
+$scope module i1 $end
+$var wire 1 & gnd $end
+$var wire 1 ' vcc $end
+$var wire 1 ( unknown $end
+$var tri1 1 ) devclrn $end
+$var tri1 1 * devpor $end
+$var tri1 1 + devoe $end
+$var wire 1 , ~QUARTUS_CREATED_GND~I_combout $end
+$var wire 1 - b~input_o $end
+$var wire 1 . d~input_o $end
+$var wire 1 / c~input_o $end
+$var wire 1 0 a~input_o $end
+$var wire 1 1 or2~0_combout $end
+$upscope $end
+$upscope $end
+$enddefinitions $end
+#0
+$dumpvars
+0!
+0"
+0#
+0$
+1%
+0&
+1'
+x(
+1)
+1*
+1+
+0,
+0-
+0.
+0/
+00
+01
+$end
+#100000
+1$
+1.
+#200000
+1#
+0$
+1/
+0.
+#300000
+1$
+1.
+11
+0%
+#400000
+1"
+0#
+0$
+1-
+0/
+0.
+01
+1%
+#500000
+1$
+1.
+11
+0%
+#600000
+1#
+0$
+1/
+0.
+#700000
+1$
+1.
+#800000
+1!
+0"
+0#
+0$
+10
+0-
+0/
+0.
+#900000
+1$
+1.
+#1000000
+1#
+0$
+1/
+0.
+01
+1%
+#1100000
+1$
+1.
+11
+0%
+#1200000
+1"
+0#
+0$
+1-
+0/
+0.
+01
+1%
+#1300000
+1$
+1.
+#1400000
+1#
+0$
+1/
+0.
+#1500000
+1$
+1.
+11
+0%
+#1600000

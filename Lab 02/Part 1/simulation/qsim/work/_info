@@ -1,0 +1,59 @@
+m255
+K4
+z2
+!s11f vlog 2020.1 2020.02, Feb 28 2020
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 dC:/Users/walee/Desktop/School/Second Year/2277/Labs/Lab 2/simulation/qsim
+vSOP
+Z1 !s110 1603381332
+!i10b 1
+!s100 Odf3zBMYY^cZ[GhHDcf960
+Z2 !s11b Dg1SIo80bB@j0V0VzS_@n1
+I3Y3;A@0F@5YHUFL_>QHWQ2
+Z3 VDg1SIo80bB@j0V0VzS_@n1
+R0
+w1603381329
+8SOP.vo
+FSOP.vo
+!i122 6
+L0 32 148
+Z4 OV;L;2020.1;71
+r1
+!s85 0
+31
+!s108 1603381331.000000
+!s107 SOP.vo|
+!s90 -work|work|SOP.vo|
+!i113 1
+Z5 o-work work
+Z6 tCvgOpt 0
+n@s@o@p
+vSOP_vlg_vec_tst
+R1
+!i10b 1
+!s100 77di39_K6z<kAZ`d3kCbg1
+R2
+IYMXnL2JFben3b=NV<n<E[2
+R3
+R0
+w1603381326
+8Waveform.vwf.vt
+FWaveform.vwf.vt
+!i122 7
+L0 30 74
+R4
+r1
+!s85 0
+31
+!s108 1603381332.000000
+!s107 Waveform.vwf.vt|
+!s90 -work|work|Waveform.vwf.vt|
+!i113 1
+R5
+R6
+n@s@o@p_vlg_vec_tst
