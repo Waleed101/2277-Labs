@@ -1,0 +1,8 @@
+vendor_name = ModelSim
+source_file = 1, C:/Users/walee/Desktop/School/Second Year/2277/Labs/Lab 0/Light/light.bdf
+source_file = 1, C:/Users/walee/Desktop/School/Second Year/2277/Labs/Lab 0/Light/db/light.cbx.xml
+design_name = light
+instance = comp, \pin_name1~output , pin_name1~output, light, 1
+instance = comp, \x1~input , x1~input, light, 1
+instance = comp, \x2~input , x2~input, light, 1
+instance = comp, \inst2~0 , inst2~0, light, 1
