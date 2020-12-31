@@ -1,0 +1,12 @@
+vendor_name = ModelSim
+source_file = 1, C:/Users/walee/Desktop/School/Second Year/2277/Labs/Lab 2 Part 2/POS.bdf
+source_file = 1, C:/Users/walee/Desktop/School/Second Year/2277/Labs/Lab 2 Part 2/Waveform.vwf
+source_file = 1, C:/Users/walee/Desktop/School/Second Year/2277/Labs/Lab 2 Part 2/db/POS.cbx.xml
+design_name = POS
+instance = comp, \out~output , out~output, POS, 1
+instance = comp, \b~input , b~input, POS, 1
+instance = comp, \d~input , d~input, POS, 1
+instance = comp, \c~input , c~input, POS, 1
+instance = comp, \a~input , a~input, POS, 1
+instance = comp, \inst17~0 , inst17~0, POS, 1
+instance = comp, \~QUARTUS_CREATED_GND~I , ~QUARTUS_CREATED_GND~I, POS, 1
