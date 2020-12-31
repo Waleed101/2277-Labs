@@ -1,0 +1,10 @@
+|OptimalWORKING
+pin <= inst5.DB_MAX_OUTPUT_PORT_TYPE
+w => inst.IN0
+y => inst3.IN1
+y => inst1.IN0
+z => inst3.IN2
+z => inst2.IN0
+x => inst3.IN3
+
+
