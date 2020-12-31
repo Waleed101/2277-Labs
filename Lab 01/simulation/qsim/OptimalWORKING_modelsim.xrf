@@ -1,0 +1,12 @@
+vendor_name = ModelSim
+source_file = 1, C:/Users/walee/Desktop/School/Second Year/2277/Labs/Optimal WORKING/OptimalWORKING.bdf
+source_file = 1, C:/Users/walee/Desktop/School/Second Year/2277/Labs/Optimal WORKING/Waveform.vwf
+source_file = 1, C:/Users/walee/Desktop/School/Second Year/2277/Labs/Optimal WORKING/db/OptimalWORKING.cbx.xml
+design_name = OptimalWORKING
+instance = comp, \pin~output , pin~output, OptimalWORKING, 1
+instance = comp, \z~input , z~input, OptimalWORKING, 1
+instance = comp, \w~input , w~input, OptimalWORKING, 1
+instance = comp, \x~input , x~input, OptimalWORKING, 1
+instance = comp, \y~input , y~input, OptimalWORKING, 1
+instance = comp, \inst5~0 , inst5~0, OptimalWORKING, 1
+instance = comp, \~QUARTUS_CREATED_GND~I , ~QUARTUS_CREATED_GND~I, OptimalWORKING, 1

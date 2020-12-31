@@ -1,0 +1,59 @@
+m255
+K4
+z2
+!s11f vlog 2020.1 2020.02, Feb 28 2020
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 dC:/Users/walee/Desktop/School/Second Year/2277/Labs/Optimal WORKING/simulation/qsim
+vOptimalWORKING
+Z1 !s110 1602601054
+!i10b 1
+!s100 TG_SmR9hhU2^36?eba9iX3
+Z2 !s11b Dg1SIo80bB@j0V0VzS_@n1
+I`kTPN[];ToF0KV9G8E3Rc0
+Z3 VDg1SIo80bB@j0V0VzS_@n1
+R0
+w1602601053
+8OptimalWORKING.vo
+FOptimalWORKING.vo
+!i122 10
+L0 32 148
+Z4 OV;L;2020.1;71
+r1
+!s85 0
+31
+!s108 1602601053.000000
+!s107 OptimalWORKING.vo|
+!s90 -work|work|OptimalWORKING.vo|
+!i113 1
+Z5 o-work work
+Z6 tCvgOpt 0
+n@optimal@w@o@r@k@i@n@g
+vOptimalWORKING_vlg_vec_tst
+R1
+!i10b 1
+!s100 8[RjNZQbCMOLkKCFS4INR1
+R2
+IW=:NH5dJ98oAbEkK<iKT]3
+R3
+R0
+w1602601052
+8Waveform.vwf.vt
+FWaveform.vwf.vt
+!i122 11
+L0 30 74
+R4
+r1
+!s85 0
+31
+!s108 1602601054.000000
+!s107 Waveform.vwf.vt|
+!s90 -work|work|Waveform.vwf.vt|
+!i113 1
+R5
+R6
+n@optimal@w@o@r@k@i@n@g_vlg_vec_tst

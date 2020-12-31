@@ -1,0 +1,135 @@
+$comment
+	File created using the following command:
+		vcd file OptimalWORKING.msim.vcd -direction
+$end
+$date
+	Tue Oct 13 10:57:34 2020
+$end
+$version
+	ModelSim Version 2020.1
+$end
+$timescale
+	1ps
+$end
+
+$scope module OptimalWORKING_vlg_vec_tst $end
+$var reg 1 ! w $end
+$var reg 1 " x $end
+$var reg 1 # y $end
+$var reg 1 $ z $end
+$var wire 1 % pin $end
+
+$scope module i1 $end
+$var wire 1 & gnd $end
+$var wire 1 ' vcc $end
+$var wire 1 ( unknown $end
+$var tri1 1 ) devclrn $end
+$var tri1 1 * devpor $end
+$var tri1 1 + devoe $end
+$var wire 1 , ~QUARTUS_CREATED_GND~I_combout $end
+$var wire 1 - z~input_o $end
+$var wire 1 . w~input_o $end
+$var wire 1 / x~input_o $end
+$var wire 1 0 y~input_o $end
+$var wire 1 1 inst5~0_combout $end
+$upscope $end
+$upscope $end
+$enddefinitions $end
+#0
+$dumpvars
+0!
+0"
+0#
+0$
+1%
+0&
+1'
+x(
+1)
+1*
+1+
+0,
+0-
+0.
+0/
+00
+11
+$end
+#100000
+1$
+1-
+#200000
+1#
+0$
+10
+0-
+#300000
+1$
+1-
+#400000
+1"
+0#
+0$
+1/
+00
+0-
+#500000
+1$
+1-
+#600000
+1#
+0$
+10
+0-
+#700000
+1$
+1-
+#800000
+1!
+0"
+0#
+0$
+1.
+0/
+00
+0-
+01
+0%
+#900000
+1$
+1-
+11
+1%
+#1000000
+1#
+0$
+10
+0-
+#1100000
+1$
+1-
+01
+0%
+#1200000
+1"
+0#
+0$
+1/
+00
+0-
+11
+1%
+#1300000
+1$
+1-
+#1400000
+1#
+0$
+10
+0-
+#1500000
+1$
+1-
+01
+0%
+#1600000
