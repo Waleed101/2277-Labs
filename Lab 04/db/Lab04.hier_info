@@ -1,0 +1,150 @@
+|Lab04
+N <= inst9.DB_MAX_OUTPUT_PORT_TYPE
+A0 => 4BA:inst.A0
+A1 => 4BA:inst.A1
+A2 => 4BA:inst.A2
+A3 => 4BA:inst.A3
+B0 => 4BA:inst.B0
+B1 => 4BA:inst.B1
+B2 => 4BA:inst.B2
+B3 => 4BA:inst.B3
+M => 4BA:inst.M
+COut <= 4BA:inst.C
+S0Out <= 4BA:inst4.S0
+S1Out <= 4BA:inst4.S1
+S2Out <= 4BA:inst4.S2
+S3Out <= 4BA:inst4.S3
+
+
+|Lab04|4BA:inst
+S0 <= FA:inst6.S
+A0 => FA:inst6.X
+B0 => inst.IN0
+M => inst.IN1
+M => FA:inst6.Z
+M => inst3.IN1
+M => inst4.IN1
+M => inst5.IN1
+S1 <= FA:inst7.S
+A1 => FA:inst7.X
+B1 => inst3.IN0
+S2 <= FA:inst8.S
+A2 => FA:inst8.X
+B2 => inst4.IN0
+S3 <= FA:inst9.S
+A3 => FA:inst9.X
+B3 => inst5.IN0
+V <= inst10.DB_MAX_OUTPUT_PORT_TYPE
+C <= FA:inst9.C
+
+
+|Lab04|4BA:inst|FA:inst6
+S <= inst2.DB_MAX_OUTPUT_PORT_TYPE
+X => inst.IN0
+X => inst3.IN0
+Y => inst.IN1
+Y => inst3.IN1
+Z => inst2.IN1
+Z => inst4.IN1
+C <= inst5.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|Lab04|4BA:inst|FA:inst7
+S <= inst2.DB_MAX_OUTPUT_PORT_TYPE
+X => inst.IN0
+X => inst3.IN0
+Y => inst.IN1
+Y => inst3.IN1
+Z => inst2.IN1
+Z => inst4.IN1
+C <= inst5.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|Lab04|4BA:inst|FA:inst8
+S <= inst2.DB_MAX_OUTPUT_PORT_TYPE
+X => inst.IN0
+X => inst3.IN0
+Y => inst.IN1
+Y => inst3.IN1
+Z => inst2.IN1
+Z => inst4.IN1
+C <= inst5.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|Lab04|4BA:inst|FA:inst9
+S <= inst2.DB_MAX_OUTPUT_PORT_TYPE
+X => inst.IN0
+X => inst3.IN0
+Y => inst.IN1
+Y => inst3.IN1
+Z => inst2.IN1
+Z => inst4.IN1
+C <= inst5.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|Lab04|4BA:inst4
+S0 <= FA:inst6.S
+A0 => FA:inst6.X
+B0 => inst.IN0
+M => inst.IN1
+M => FA:inst6.Z
+M => inst3.IN1
+M => inst4.IN1
+M => inst5.IN1
+S1 <= FA:inst7.S
+A1 => FA:inst7.X
+B1 => inst3.IN0
+S2 <= FA:inst8.S
+A2 => FA:inst8.X
+B2 => inst4.IN0
+S3 <= FA:inst9.S
+A3 => FA:inst9.X
+B3 => inst5.IN0
+V <= inst10.DB_MAX_OUTPUT_PORT_TYPE
+C <= FA:inst9.C
+
+
+|Lab04|4BA:inst4|FA:inst6
+S <= inst2.DB_MAX_OUTPUT_PORT_TYPE
+X => inst.IN0
+X => inst3.IN0
+Y => inst.IN1
+Y => inst3.IN1
+Z => inst2.IN1
+Z => inst4.IN1
+C <= inst5.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|Lab04|4BA:inst4|FA:inst7
+S <= inst2.DB_MAX_OUTPUT_PORT_TYPE
+X => inst.IN0
+X => inst3.IN0
+Y => inst.IN1
+Y => inst3.IN1
+Z => inst2.IN1
+Z => inst4.IN1
+C <= inst5.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|Lab04|4BA:inst4|FA:inst8
+S <= inst2.DB_MAX_OUTPUT_PORT_TYPE
+X => inst.IN0
+X => inst3.IN0
+Y => inst.IN1
+Y => inst3.IN1
+Z => inst2.IN1
+Z => inst4.IN1
+C <= inst5.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|Lab04|4BA:inst4|FA:inst9
+S <= inst2.DB_MAX_OUTPUT_PORT_TYPE
+X => inst.IN0
+X => inst3.IN0
+Y => inst.IN1
+Y => inst3.IN1
+Z => inst2.IN1
+Z => inst4.IN1
+C <= inst5.DB_MAX_OUTPUT_PORT_TYPE
+
+
